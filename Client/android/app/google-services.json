@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305928695659",
+    "project_id": "authreactnative-2f1dc",
+    "storage_bucket": "authreactnative-2f1dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305928695659:android:0ae3f3fea41666d818e62e",
+        "android_client_info": {
+          "package_name": "com.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305928695659-2a6ptecdd2ikkigec4cg3686ri6au10l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZhYV_zP2roZ9f-5yEoK5qqjN34L0CrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305928695659-2a6ptecdd2ikkigec4cg3686ri6au10l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
